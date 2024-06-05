@@ -1,1 +1,3 @@
-# phone.github.io
+# Website info
+
+tema utilizzato: https://beautifuljekyll.com/
