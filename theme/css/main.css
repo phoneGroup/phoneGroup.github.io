@@ -1,0 +1,58 @@
+
+.urbanist-description {
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 253;
+    font-style: normal;
+}
+
+.link_to_other_pages {
+    text-decoration: none;
+    color: #000;
+    inset: calc(100% - 3px) 0 0 0; /* 3px = the thickness */
+    scale: 0 1;
+    transition: .4s, translate 0s .3s;
+}
+
+.link_to_other_pages:hover {
+    color: grey;
+}
+
+.urbanist-title{
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+#banner {
+    display: flex;
+    justify-content: center;
+}
+
+#logo_phone {
+    position: relative;
+    top: 30px;
+    left: 20%;
+}
+
+
+hr {
+    background-color: #000; /* Colore della linea */
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    
+}
