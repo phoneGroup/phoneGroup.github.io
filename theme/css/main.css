@@ -6,6 +6,12 @@
     font-style: normal;
 }
 
+
+h1 {
+    font-family: "Urbanist", sans-serif;
+    margin-left: 25%;
+}
+
 .link_to_other_pages {
     text-decoration: none;
     color: #000;
