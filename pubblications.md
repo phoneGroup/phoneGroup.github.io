@@ -1,7 +1,12 @@
 ---
-title:
-subtitle: null
 layout: page
-
 ---
-# Bibliografia
+
+# Explainability
+
+
+{% bibliography --file explainability %}
+
+# Phoné
+
+{% bibliography --file phone %}
