@@ -42,13 +42,14 @@ layout: page
   - <div class="card mb-3" style="max-width: 540px;">
     <div class="row g-0">
       <div class="col-md-4">
-        <img src="/assets/img/cane.jpeg" class="img-fluid rounded-start" alt="...">
+        <img src="/assets/img/emilia_tanda.jpeg" class="img-fluid rounded-start" alt="...">
       </div>
       <a href="#" class="stretched-link"></a>
 
       <div class="col-md-8">
         <div class="card-body">
           <h5 class="card-title">Emilia Tanda</h5>
+          Collaboratrice
           
         </div>
       </div>
@@ -130,7 +131,7 @@ layout: page
       <div class="col-md-8">
         <div class="card-body">
           <h5 class="card-title">Gianpaolo Coro</h5>
-          Research at the Institute of Science and Technologies of the National Research Council of Italy
+          Researcher at the Institute of Science and Technologies of the National Research Council of Italy
         </div>
       </div>
     </div>
