@@ -148,13 +148,13 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
                 <div class="carousel-item active">
                   <div>
                    <b>Ruolo nel progetto:</b> 
-                   Statistico
+                   Collaborator
                   </div>
                 </div>
                 <div class="carousel-item">
                   <div>
                    <b>Ruolo accademico:</b> 
-                   Studente
+                   Phd student at Università degli studi di Napoli Federico II
                   </div>
                 </div>
               </div>
