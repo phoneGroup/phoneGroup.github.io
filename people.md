@@ -17,13 +17,23 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
       <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">Francesco Cutugno</h5>
+          <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> 
+                   
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> 
+                   
+                  </div>
+                </div>
+              </div>
+            </div>
       </div>
-      <div class="primary-text">
-         
-      </div>
-      <p class="secondary-text">
-      </p>
-        
       </div>
       
     </div>
@@ -39,6 +49,22 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
       <div class="col-md-8">
         <div class="card-body">
           <h5 class="card-title">Vincenzo Norman Vitale</h5>
+            <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> 
+                   
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> 
+                   
+                  </div>
+                </div>
+              </div>
+            </div>
           
         </div>
       </div>
@@ -56,7 +82,22 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
       <div class="col-md-8">
         <div class="card-body">
           <h5 class="card-title">Emilia Tanda</h5>
-          Collaborator
+            <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> 
+                   Collaborator
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> 
+                   Collaborator
+                  </div>
+                </div>
+              </div>
+            </div>
           
         </div>
       </div>
@@ -71,7 +112,22 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
       <div class="col-md-8">
         <div class="card-body">
           <h5 class="card-title">Teresa Cimmino</h5>
-          Collaborator
+            <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> 
+                   Collaborator
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> 
+                   Collaborator
+                  </div>
+                </div>
+              </div>
+            </div>
           
         </div>
       </div>
@@ -87,13 +143,23 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
       <div class="col-md-8">
         <div class="card-body">
           <h5 class="card-title">Luigi Maria Giordano Orsini</h5>
-      <div class="primary-text">
-        Collaborator
-
-      </div>
-      <div class="secondary-text">
-          PhD student at Università degli studi di Napoli Federico II
-      </div>
+            <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> 
+                   Statistico
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> 
+                   Studente
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       <a href="#" class="stretched-link"></a>
 
@@ -108,8 +174,22 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
       <div class="col-md-8">
         <div class="card-body">
           <h5 class="card-title">Salvatore Bottiglieri</h5>
-          Collaborator
-          
+            <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> 
+                   Collaborator
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> 
+                   Collaborator
+                  </div>
+                </div>
+              </div>
+            </div>
         </div>
       </div>
     </div>
@@ -123,19 +203,27 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
         <img src="/assets/img/loredana_schettino.jpeg" class="img-fluid rounded-start" alt="...">
       </div>
       <div class="col-md-8">
-      <div class="card-body">
+        <div class="card-body">
           <h5 class="card-title">Loredana Schettino</h5>
-      <div class="primary-text">
-        Coordinator of the Speech Generation activities and contributor to the Speech Recognition activities
-
+            <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> 
+                   Coordinator of the Speech Generation activities and contributor to the Speech Recognition activities
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> 
+                   Researcher with a fixed-term contract at the Free University of Bozen-Bolzano
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="secondary-text">
-          Researcher with a fixed-term contract at the Free University of Bozen-Bolzano
-      </div>
-
-      </div>
-      </div>
-    </div>
     </div>
 
   - <div class="card mb-3" style="max-width: 640px;">
@@ -146,9 +234,21 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
       <div class="col-md-8">
         <div class="card-body">
           <h5 class="card-title">Alessandro Vietti</h5>
-          Associate Professor of Linguistics at Libera Università di Bolzano. 
-          Head of coordination for data collection.
-          
+            <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> 
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> 
+                    Associate Professor of Linguistics at Libera Università di Bolzano. Head of coordination for data collection.
+                  </div>
+                </div>
+              </div>
+            </div>
         </div>
       </div>
     </div>
@@ -164,8 +264,26 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
       <div class="col-md-8">
         <div class="card-body">
           <h5 class="card-title">Gianpaolo Coro</h5>
-          Researcher at the Institute of Science and Technologies of the National Research Council of Italy
+            <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> 
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> 
+                      Researcher at the Institute of Science and Technologies of the National Research Council of Italy
+                  </div>
+                </div>
+              </div>
+            </div>
         </div>
       </div>
     </div>
     </div>
+
+
+
+    
