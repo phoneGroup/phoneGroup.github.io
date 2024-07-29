@@ -123,7 +123,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
                 <div class="carousel-item">
                   <div>
                    <b>Ruolo accademico:</b> 
-                   Collaborator
+                   Master's Degree in Computer Science
                   </div>
                 </div>
               </div>
@@ -185,7 +185,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
                 <div class="carousel-item">
                   <div>
                    <b>Ruolo accademico:</b> 
-                   Collaborator
+                   Master's Degree in Computer Science
                   </div>
                 </div>
               </div>
@@ -239,6 +239,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
                 <div class="carousel-item active">
                   <div>
                    <b>Ruolo nel progetto:</b> 
+                   Head of coordination for data collection
                   </div>
                 </div>
                 <div class="carousel-item">
