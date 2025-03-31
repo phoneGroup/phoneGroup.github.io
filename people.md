@@ -11,7 +11,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
   - <div class="card mb-3" style="max-width: 640px;">
     <div class="row g-0">
       <div class="col-md-4">
-        <img src="/assets/img/cane.jpeg" class="img-fluid rounded-start" alt="Luigi Maria Giordano Orsini">
+        <img src="/assets/img/franco_cutugno.jpeg" class="img-fluid rounded-start" alt="Francesco Cutugno">
       </div>
       <a href="#" class="stretched-link"></a>
       <div class="col-md-8">
