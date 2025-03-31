@@ -21,13 +21,13 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
               <div class="carousel-inner">
                 <div class="carousel-item active">
                   <div>
-                   <b>Ruolo nel progetto:</b> Coordinatore 
+                   <b>Ruolo nel progetto:</b> Principal Coordinator 
                    
                   </div>
                 </div>
                 <div class="carousel-item">
                   <div>
-                   <b>Ruolo accademico:</b> Professore associato di linguistica computazionale 
+                   <b>Ruolo accademico:</b> Associate professor of computational linguistics 
                    
                   </div>
                 </div>
@@ -269,7 +269,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
               <div class="carousel-inner">
                 <div class="carousel-item active">
                   <div>
-                   <b>Ruolo nel progetto:</b> 
+                   <b>Ruolo nel progetto: Head of coordination for benchmarking</b> 
                   </div>
                 </div>
                 <div class="carousel-item">
