@@ -5,7 +5,6 @@ layout: page
 ---
 # sintesi
 
-some content
 
 # riconoscimento
 
