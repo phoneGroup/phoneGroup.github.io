@@ -269,7 +269,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
               <div class="carousel-inner">
                 <div class="carousel-item active">
                   <div>
-                   <b>Ruolo nel progetto: Head of coordination for benchmarking</b> 
+                   <b>Ruolo nel progetto: </b> Head of coordination for benchmarking
                   </div>
                 </div>
                 <div class="carousel-item">
