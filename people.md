@@ -123,7 +123,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
                 <div class="carousel-item">
                   <div>
                    <b>Ruolo accademico:</b> 
-                   Master's Degree in Computer Science
+                   Scholarship holder at the Interdepartmental Research Center URBAN/ECO - University of Naples Federico II
                   </div>
                 </div>
               </div>
