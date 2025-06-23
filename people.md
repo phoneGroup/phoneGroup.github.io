@@ -42,7 +42,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
   - <div class="card mb-3" style="max-width: 640px;">
     <div class="row g-0">
       <div class="col-md-4">
-        <img src="/assets/img/cane.jpeg" class="img-fluid rounded-start" alt="...">
+        <img src="/assets/img/norman.jpeg" class="img-fluid rounded-start" alt="...">
       </div>
       <a href="#" class="stretched-link"></a>
 
@@ -53,13 +53,13 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
               <div class="carousel-inner">
                 <div class="carousel-item active">
                   <div>
-                   <b>Ruolo nel progetto:</b> 
+                   <b>Ruolo nel progetto:</b> Coordinator of the Speech Recognition activities and National activities coordinator
                    
                   </div>
                 </div>
                 <div class="carousel-item">
                   <div>
-                   <b>Ruolo accademico:</b> 
+                   <b>Ruolo accademico:</b> Assistant Professor at the University of Naples Federico II
                    
                   </div>
                 </div>
