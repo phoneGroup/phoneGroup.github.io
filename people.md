@@ -93,7 +93,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
                 <div class="carousel-item">
                   <div>
                    <b>Ruolo accademico:</b> 
-                   Collaborator
+                   PhD student in Artificial Intelligence at Università degli Studi di Napoli Federico II 
                   </div>
                 </div>
               </div>
@@ -123,7 +123,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
                 <div class="carousel-item">
                   <div>
                    <b>Ruolo accademico:</b> 
-                   Scholarship holder at the Interdepartmental Research Center URBAN/ECO - University of Naples Federico II
+                   Scholarship holder fellow at the Interdepartmental Research Center URBAN/ECO - University of Naples Federico II
                   </div>
                 </div>
               </div>
