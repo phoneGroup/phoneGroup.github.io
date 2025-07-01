@@ -195,6 +195,37 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
     </div>
     </div>
 
+  - <div class="card mb-3" style="max-width: 640px;">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img src="/assets/img/vincenzo_meloni.jpeg" class="img-fluid rounded-start" alt="Vincenzo Meloni">
+      </div>
+      <a href="#" class="stretched-link"></a>
+      <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Vincenzo Meloni</h5>
+          <div class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div>
+                   <b>Ruolo nel progetto:</b> Speech Synthesis Manager 
+                   
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div>
+                   <b>Ruolo accademico:</b> CS master student 
+                   
+                  </div>
+                </div>
+              </div>
+            </div>
+      </div>
+      </div>
+      
+    </div>
+    </div>
+
 - # Bolzano
 
   - <div class="card mb-3" style="max-width: 640px;">
