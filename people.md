@@ -179,7 +179,7 @@ ext-js: https://code.jquery.com/jquery-3.5.1.slim.min.js https://cdn.jsdelivr.ne
                 <div class="carousel-item active">
                   <div>
                    <b>Ruolo nel progetto:</b> 
-                   Collaborator
+                   Software Engineer
                   </div>
                 </div>
                 <div class="carousel-item">
