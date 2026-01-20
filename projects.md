@@ -14,9 +14,9 @@ The [Phoné](https://phonegroup.github.io/) consortium, formed by the University
 
 Phoné products:
 
-- Italian speech dataset: partially transcribed and useful for training speech recognition systems. The dataset can be distributed freely.
-- two ASR models: trained from scratch using only Italian speech.
-- a comprehensive speech synthesis and voice cloning system accessible via a web platform. This implementation is based on Gérard Bailly's (CNRS, Grenoble) PyTorch implementation of Tacotron 2. New contributions include (but are not limited to): the packaging of the TTS module into a containerised web service based on FastAPI; the setup of Kubernetes deployment.
+- Italian speech dataset: partially transcribed and useful for training speech recognition systems. The dataset can be distributed freely;
+- two ASR models: trained from scratch using only Italian speech;
+- a comprehensive speech synthesis and voice cloning system accessible via a web platform. This implementation is based on Gérard Bailly's (CNRS, Grenoble) PyTorch implementation of Tacotron 2. New contributions include (but are not limited to): the packaging of the TTS module into a containerised web service based on FastAPI; the setup of Kubernetes deployment;
 - a pipeline of audio file manipulation tools that are useful for preparing additional training material for TTS and ASR.
 
 
